@@ -7,9 +7,12 @@
     <title></title>
     <head runat="server">
 		<title>Chalan and Gate Pass</title>
-		 <link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
+		 <link rel="stylesheet" type="text/css" href="css/jquery-ui.css">  
 
 		
+
+
+
  
    <LINK id="mss" href="/wap.css" rel="stylesheet"/>
 		<META content="Microsoft Visual Studio.NET 7.0" name="GENERATOR"/>
